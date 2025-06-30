@@ -1,0 +1,4 @@
+sqlite3 sales.db < schema.sql
+sqlite3 sales.db < data.sql
+
+-- commands to popualte db
